@@ -1,6 +1,6 @@
 # Cats vs. Dogs Image Classification using Transfer Learning
 
-This project implements an end-to-end deep learning pipeline for binary image classification (Cats vs. Dogs) using **Transfer Learning** with an **EfficientNetB0** architecture backbone. The codebase is engineered to be **HPC-ready (High-Performance Computing)** with detailed checkpoint logging, crash-recovery mechanisms, and modular dataset validation procedures.
+This MSc project implements an end-to-end deep learning pipeline for binary image classification (Cats vs. Dogs) using **Transfer Learning** with an **EfficientNetB0** architecture backbone. The codebase is engineered to be **HPC-ready (High-Performance Computing)** with detailed checkpoint logging, crash-recovery mechanisms, and modular dataset validation procedures.
 
 ---
 
