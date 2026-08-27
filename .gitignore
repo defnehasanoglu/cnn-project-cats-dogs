@@ -1,11 +1,2 @@
-# Tüm .keras uzantılı model dosyalarını yoksay
 *.keras
 
-# Belirli bir dosya adını yoksaymak isterseniz:
-bestmodel.keras
-
-# Alternatif model ve checkpoint uzantıları
-*.h5
-*.pt
-*.pth
-checkpoints/
